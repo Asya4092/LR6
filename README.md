@@ -100,6 +100,6 @@ Cделала копию на сайте GitHubhttps://github.com/Kurtyanik/LR6/
 
 Финальный результат команды _git log_
 
-![Git log3](screens/26.png)
+![Git log3](screen/26.png)
 
 Все файлы скриншотов лежат в папке **screen**
